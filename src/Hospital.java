@@ -16,7 +16,7 @@ public class Hospital {
         Jaulas[3]=new Jaula(4, "l", "A");
         Jaulas[4]=new Jaula(5, "s", "B");
         Jaulas[5]=new Jaula(6, "m", "B");
-        //Pacientes
+        //Pacientes ingresados
         pacientes[0]=new Perro("Rocky"  , 30.0, 4, "Labrador", true);
         pacientes[1]=new Gato("Misifu"  , 4.0, 4, 0);
         pacientes[2]=new AveExotica("Kiwi"  , 0.8, 2, 70.0);
